@@ -1,0 +1,9 @@
+{
+  "name": "parian",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
